@@ -2,6 +2,10 @@
 
 A simple and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**, allowing two players to play against each other on the same device.
 
+## 📸 Demo
+
+https://manik2005d.github.io/Tic-Tac-Toe/
+
 ## 🧠 Features
 
 - Two-player local gameplay (X vs O)
